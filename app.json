@@ -175,7 +175,7 @@
       "description": "Make your bot talk using Intellivoid's chatbot API, get your key from https://coffeehouse.intellivoid.net/",
          "required": false,
          "value": ""
-   },      
+      },      
       "BAN_STICKER": {
          "description": "ID of the sticker you want to use when banning people.",
          "required": false,
@@ -187,19 +187,19 @@
          "value": ""
       },
       "DATABASE_URL": {
-         "description": "Get from elephantsql.com"
+         "description": "Get from elephantsql.com",
          "required": true,
          "value": ""
       },
       "ARQ_API_URL": { 
-        "description": "mf dont change"
+        "description": "mf dont change",
         "value": "https://thearq.tech"
       },
       "ARQ_API_KEY": {
-        "description": "get from @arqrobot"
-        "required": true
+        "description": "get from @arqrobot",
+        "required": true,
         "value": "fill crt value gay"
       }
-      }
       
-   }
+      }
+  }
